@@ -30,7 +30,7 @@ $ git lg
 ```
 
 ## git reset
-git reset有3种方式：mixed、soft、hard。
+git reset常用的有3种方式：mixed、soft、hard。
 
 ### git reset --mixed
 默认方式，回退到某个版本，保留代码，提交、索引回退。
